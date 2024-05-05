@@ -1,0 +1,3 @@
+date; zip -T datag-p1.zip; date
+date; zip -T datag-p2.zip; date
+date; zip -T datag-p3.zip; date

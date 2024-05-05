@@ -1,0 +1,3 @@
+date; unzip datag-nonstd-p1.zip; date
+date; unzip datag-nonstd-p2.zip; date
+date; unzip datag-nonstd-p3.zip; date

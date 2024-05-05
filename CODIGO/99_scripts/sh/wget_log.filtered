@@ -1,0 +1,67 @@
+------------------------------------
+Downloading datag-211MRows-shasum.txt...
+
+Length: 85 [text/plain]
+Saving to: ‘datag-211MRows-shasum.txt’
+real	0m1.405s
+sys	0m0.062s
+------------------------------------
+Downloading datag-211MRows.zip...
+
+Length: 4831833831 (4.5G) [application/x-zip-compressed]
+Saving to: ‘datag-211MRows.zip’
+Length: 4831833831 (4.5G), 2855649065 (2.7G) remaining [application/x-zip-compressed]
+Saving to: ‘datag-211MRows.zip’
+real	8m47.400s
+sys	0m26.155s
+------------------------------------
+Downloading datag-nonstd-p1.zip...
+
+Length: 6443237493 (6.0G) [application/x-zip-compressed]
+Saving to: ‘datag-nonstd-p1.zip’
+real	11m14.470s
+sys	0m32.328s
+------------------------------------
+Downloading datag-nonstd-p2.zip...
+
+Length: 6443229928 (6.0G) [application/x-zip-compressed]
+Saving to: ‘datag-nonstd-p2.zip’
+real	9m13.754s
+sys	0m21.531s
+------------------------------------
+Downloading datag-nonstd-p3.zip...
+
+Length: 5720736254 (5.3G) [application/x-zip-compressed]
+Saving to: ‘datag-nonstd-p3.zip’
+real	8m30.965s
+sys	0m22.765s
+------------------------------------
+Downloading datagrams-nonstd-shasum.txt...
+
+Length: 87 [text/plain]
+Saving to: ‘datagrams-nonstd-shasum.txt’
+real	0m1.270s
+sys	0m0.140s
+------------------------------------
+Downloading datagrams-nonstd.zip...
+
+Length: 18604990632 (17G) [application/x-zip-compressed]
+Saving to: ‘datagrams-nonstd.zip’
+Length: 18604990632 (17G), 12676198640 (12G) remaining [application/x-zip-compressed]
+Saving to: ‘datagrams-nonstd.zip’
+real	29m21.294s
+sys	1m20.390s
+------------------------------------
+Downloading stops.csv...
+
+Length: 15757698 (15M) [application/octet-stream]
+Saving to: ‘stops.csv’
+real	0m2.951s
+sys	0m0.203s
+------------------------------------
+Downloading stops-shasum.txt...
+
+Length: 52 [text/plain]
+Saving to: ‘stops-shasum.txt’
+real	0m7.798s
+sys	0m0.077s

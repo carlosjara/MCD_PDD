@@ -1,0 +1,200 @@
+      13100: 2019/09/09:     To make these doubts all even.
+      13101: 2019/09/09:                                        Exeunt ROSALIND and CELIA
+      13102: 2019/09/09:   DUKE SENIOR. I do remember in this shepherd boy
+      13103: 2019/09/09:     Some lively touches of my daughter's favour.
+      13104: 2019/09/09:   ORLANDO. My lord, the first time that I ever saw him
+      13105: 2019/09/09:     Methought he was a brother to your daughter.
+      13106: 2019/09/09:     But, my good lord, this boy is forest-born,
+      13107: 2019/09/09:     And hath been tutor'd in the rudiments
+      13108: 2019/09/09:     Of many desperate studies by his uncle,  
+      13109: 2019/09/09:     Whom he reports to be a great magician,
+      13110: 2019/09/09:     Obscured in the circle of this forest.
+      13111: 2019/09/09: 
+      13112: 2019/09/09:                     Enter TOUCHSTONE and AUDREY
+      13113: 2019/09/09: 
+      13114: 2019/09/09:   JAQUES. There is, sure, another flood toward, and these couples are
+      13115: 2019/09/09:     coming to the ark. Here comes a pair of very strange beasts which
+      13116: 2019/09/09:     in all tongues are call'd fools.
+      13117: 2019/09/09:   TOUCHSTONE. Salutation and greeting to you all!
+      13118: 2019/09/09:   JAQUES. Good my lord, bid him welcome. This is the motley-minded
+      13119: 2019/09/09:     gentleman that I have so often met in the forest. He hath been a
+      13120: 2019/09/09:      courtier, he swears.
+      13121: 2019/09/09:   TOUCHSTONE. If any man doubt that, let him put me to my purgation.
+      13122: 2019/09/09:     I have trod a measure; I have flatt'red a lady; I have been
+      13123: 2019/09/09:     politic with my friend, smooth with mine enemy; I have undone
+      13124: 2019/09/09:     three tailors; I have had four quarrels, and like to have fought
+      13125: 2019/09/09:     one.
+      13126: 2019/09/09:   JAQUES. And how was that ta'en up?
+      13127: 2019/09/09:   TOUCHSTONE. Faith, we met, and found the quarrel was upon the
+      13128: 2019/09/09:     seventh cause.  
+      13129: 2019/09/09:   JAQUES. How seventh cause? Good my lord, like this fellow.
+      13130: 2019/09/09:   DUKE SENIOR. I like him very well.
+      13131: 2019/09/09:   TOUCHSTONE. God 'ild you, sir; I desire you of the like. I press in
+      13132: 2019/09/09:     here, sir, amongst the rest of the country copulatives, to swear
+      13133: 2019/09/09:     and to forswear, according as marriage binds and blood breaks. A
+      13134: 2019/09/09:     poor virgin, sir, an ill-favour'd thing, sir, but mine own; a
+      13135: 2019/09/09:     poor humour of mine, sir, to take that that man else will. Rich
+      13136: 2019/09/09:     honesty dwells like a miser, sir, in a poor house; as your pearl
+      13137: 2019/09/09:     in your foul oyster.
+      13138: 2019/09/09:   DUKE SENIOR. By my faith, he is very swift and sententious.
+      13139: 2019/09/09:   TOUCHSTONE. According to the fool's bolt, sir, and such dulcet
+      13140: 2019/09/09:     diseases.
+      13141: 2019/09/09:   JAQUES. But, for the seventh cause: how did you find the quarrel on
+      13142: 2019/09/09:     the seventh cause?
+      13143: 2019/09/09:   TOUCHSTONE. Upon a lie seven times removed- bear your body more
+      13144: 2019/09/09:     seeming, Audrey- as thus, sir. I did dislike the cut of a certain
+      13145: 2019/09/09:     courtier's beard; he sent me word, if I said his beard was not
+      13146: 2019/09/09:     cut well, he was in the mind it was. This is call'd the Retort
+      13147: 2019/09/09:     Courteous. If I sent him word again it was not well cut, he would
+      13148: 2019/09/09:     send me word he cut it to please himself. This is call'd the Quip  
+      13149: 2019/09/09:     Modest. If again it was not well cut, he disabled my judgment.
+      13150: 2019/09/09:     This is call'd the Reply Churlish. If again it was not well cut,
+      13151: 2019/09/09:     he would answer I spake not true. This is call'd the Reproof
+      13152: 2019/09/09:     Valiant. If again it was not well cut, he would say I lie. This
+      13153: 2019/09/09:     is call'd the Countercheck Quarrelsome. And so to the Lie
+      13154: 2019/09/09:     Circumstantial and the Lie Direct.
+      13155: 2019/09/09:   JAQUES. And how oft did you say his beard was not well cut?
+      13156: 2019/09/09:   TOUCHSTONE. I durst go no further than the Lie Circumstantial, nor
+      13157: 2019/09/09:     he durst not give me the Lie Direct; and so we measur'd swords
+      13158: 2019/09/09:     and parted.
+      13159: 2019/09/09:   JAQUES. Can you nominate in order now the degrees of the lie?
+      13160: 2019/09/09:   TOUCHSTONE. O, sir, we quarrel in print by the book, as you have
+      13161: 2019/09/09:     books for good manners. I will name you the degrees. The first,
+      13162: 2019/09/09:     the Retort Courteous; the second, the Quip Modest; the third, the
+      13163: 2019/09/09:     Reply Churlish; the fourth, the Reproof Valiant; the fifth, the
+      13164: 2019/09/09:     Countercheck Quarrelsome; the sixth, the Lie with Circumstance;
+      13165: 2019/09/09:     the seventh, the Lie Direct. All these you may avoid but the Lie
+      13166: 2019/09/09:     Direct; and you may avoid that too with an If. I knew when seven
+      13167: 2019/09/09:     justices could not take up a quarrel; but when the parties were
+      13168: 2019/09/09:     met themselves, one of them thought but of an If, as: 'If you  
+      13169: 2019/09/09:     said so, then I said so.' And they shook hands, and swore
+      13170: 2019/09/09:     brothers. Your If is the only peace-maker; much virtue in If.
+      13171: 2019/09/09:   JAQUES. Is not this a rare fellow, my lord?
+      13172: 2019/09/09:     He's as good at any thing, and yet a fool.
+      13173: 2019/09/09:   DUKE SENIOR. He uses his folly like a stalking-horse, and under the
+      13174: 2019/09/09:     presentation of that he shoots his wit:
+      13175: 2019/09/09: 
+      13176: 2019/09/09:           Enter HYMEN, ROSALIND, and CELIA. Still MUSIC
+      13177: 2019/09/09: 
+      13178: 2019/09/09:     HYMEN.    Then is there mirth in heaven,
+      13179: 2019/09/09:               When earthly things made even
+      13180: 2019/09/09:                 Atone together.
+      13181: 2019/09/09:               Good Duke, receive thy daughter;
+      13182: 2019/09/09:               Hymen from heaven brought her,
+      13183: 2019/09/09:                 Yea, brought her hither,
+      13184: 2019/09/09:               That thou mightst join her hand with his,
+      13185: 2019/09/09:               Whose heart within his bosom is.
+      13186: 2019/09/09:   ROSALIND. [To DUKE] To you I give myself, for I am yours.
+      13187: 2019/09/09:     [To ORLANDO] To you I give myself, for I am yours.
+      13188: 2019/09/09:   DUKE SENIOR. If there be truth in sight, you are my daughter.  
+      13189: 2019/09/09:   ORLANDO. If there be truth in sight, you are my Rosalind.
+      13190: 2019/09/09:   PHEBE. If sight and shape be true,
+      13191: 2019/09/09:     Why then, my love adieu!
+      13192: 2019/09/09:   ROSALIND. I'll have no father, if you be not he;
+      13193: 2019/09/09:     I'll have no husband, if you be not he;
+      13194: 2019/09/09:     Nor ne'er wed woman, if you be not she.
+      13195: 2019/09/09:   HYMEN.    Peace, ho! I bar confusion;
+      13196: 2019/09/09:             'Tis I must make conclusion
+      13197: 2019/09/09:               Of these most strange events.
+      13198: 2019/09/09:             Here's eight that must take hands
+      13199: 2019/09/09:             To join in Hymen's bands,
+      13200: 2019/09/10:               If truth holds true contents.
+      13201: 2019/09/10:             You and you no cross shall part;
+      13202: 2019/09/10:             You and you are heart in heart;
+      13203: 2019/09/10:             You to his love must accord,
+      13204: 2019/09/10:             Or have a woman to your lord;
+      13205: 2019/09/10:             You and you are sure together,
+      13206: 2019/09/10:             As the winter to foul weather.
+      13207: 2019/09/10:             Whiles a wedlock-hymn we sing,
+      13208: 2019/09/10:             Feed yourselves with questioning,  
+      13209: 2019/09/10:             That reason wonder may diminish,
+      13210: 2019/09/10:             How thus we met, and these things finish.
+      13211: 2019/09/10: 
+      13212: 2019/09/10:                        SONG
+      13213: 2019/09/10:             Wedding is great Juno's crown;
+      13214: 2019/09/10:               O blessed bond of board and bed!
+      13215: 2019/09/10:             'Tis Hymen peoples every town;
+      13216: 2019/09/10:               High wedlock then be honoured.
+      13217: 2019/09/10:             Honour, high honour, and renown,
+      13218: 2019/09/10:             To Hymen, god of every town!
+      13219: 2019/09/10: 
+      13220: 2019/09/10:   DUKE SENIOR. O my dear niece, welcome thou art to me!
+      13221: 2019/09/10:     Even daughter, welcome in no less degree.
+      13222: 2019/09/10:   PHEBE. I will not eat my word, now thou art mine;
+      13223: 2019/09/10:     Thy faith my fancy to thee doth combine.
+      13224: 2019/09/10: 
+      13225: 2019/09/10:                  Enter JAQUES de BOYS
+      13226: 2019/09/10: 
+      13227: 2019/09/10:   JAQUES de BOYS. Let me have audience for a word or two.
+      13228: 2019/09/10:     I am the second son of old Sir Rowland,  
+      13229: 2019/09/10:     That bring these tidings to this fair assembly.
+      13230: 2019/09/10:     Duke Frederick, hearing how that every day
+      13231: 2019/09/10:     Men of great worth resorted to this forest,
+      13232: 2019/09/10:     Address'd a mighty power; which were on foot,
+      13233: 2019/09/10:     In his own conduct, purposely to take
+      13234: 2019/09/10:     His brother here, and put him to the sword;
+      13235: 2019/09/10:     And to the skirts of this wild wood he came,
+      13236: 2019/09/10:     Where, meeting with an old religious man,
+      13237: 2019/09/10:     After some question with him, was converted
+      13238: 2019/09/10:     Both from his enterprise and from the world;
+      13239: 2019/09/10:     His crown bequeathing to his banish'd brother,
+      13240: 2019/09/10:     And all their lands restor'd to them again
+      13241: 2019/09/10:     That were with him exil'd. This to be true
+      13242: 2019/09/10:     I do engage my life.
+      13243: 2019/09/10:   DUKE SENIOR. Welcome, young man.
+      13244: 2019/09/10:     Thou offer'st fairly to thy brothers' wedding:
+      13245: 2019/09/10:     To one, his lands withheld; and to the other,
+      13246: 2019/09/10:     A land itself at large, a potent dukedom.
+      13247: 2019/09/10:     First, in this forest let us do those ends
+      13248: 2019/09/10:     That here were well begun and well begot;  
+      13249: 2019/09/10:     And after, every of this happy number,
+      13250: 2019/09/10:     That have endur'd shrewd days and nights with us,
+      13251: 2019/09/10:     Shall share the good of our returned fortune,
+      13252: 2019/09/10:     According to the measure of their states.
+      13253: 2019/09/10:     Meantime, forget this new-fall'n dignity,
+      13254: 2019/09/10:     And fall into our rustic revelry.
+      13255: 2019/09/10:     Play, music; and you brides and bridegrooms all,
+      13256: 2019/09/10:     With measure heap'd in joy, to th' measures fall.
+      13257: 2019/09/10:   JAQUES. Sir, by your patience. If I heard you rightly,
+      13258: 2019/09/10:     The Duke hath put on a religious life,
+      13259: 2019/09/10:     And thrown into neglect the pompous court.
+      13260: 2019/09/10:   JAQUES DE BOYS. He hath.
+      13261: 2019/09/10:   JAQUES. To him will I. Out of these convertites
+      13262: 2019/09/10:     There is much matter to be heard and learn'd.
+      13263: 2019/09/10:     [To DUKE] You to your former honour I bequeath;
+      13264: 2019/09/10:     Your patience and your virtue well deserves it.
+      13265: 2019/09/10:     [To ORLANDO] You to a love that your true faith doth merit;
+      13266: 2019/09/10:     [To OLIVER] You to your land, and love, and great allies
+      13267: 2019/09/10:     [To SILVIUS] You to a long and well-deserved bed;
+      13268: 2019/09/10:     [To TOUCHSTONE] And you to wrangling; for thy loving voyage  
+      13269: 2019/09/10:     Is but for two months victuall'd.- So to your pleasures;
+      13270: 2019/09/10:     I am for other than for dancing measures.
+      13271: 2019/09/10:   DUKE SENIOR. Stay, Jaques, stay.
+      13272: 2019/09/10:   JAQUES. To see no pastime I. What you would have
+      13273: 2019/09/10:     I'll stay to know at your abandon'd cave.               Exit
+      13274: 2019/09/10:   DUKE SENIOR. Proceed, proceed. We will begin these rites,
+      13275: 2019/09/10:     As we do trust they'll end, in true delights.    [A dance] Exeunt
+      13276: 2019/09/10: 
+      13277: 2019/09/10: EPILOGUE
+      13278: 2019/09/10:                            EPILOGUE.
+      13279: 2019/09/10:   ROSALIND. It is not the fashion to see the lady the epilogue; but
+      13280: 2019/09/10:     it is no more unhandsome than to see the lord the prologue. If it
+      13281: 2019/09/10:     be true that good wine needs no bush, 'tis true that a good play
+      13282: 2019/09/10:     needs no epilogue. Yet to good wine they do use good bushes; and
+      13283: 2019/09/10:     good plays prove the better by the help of good epilogues. What a
+      13284: 2019/09/10:     case am I in then, that am neither a good epilogue, nor cannot
+      13285: 2019/09/10:     insinuate with you in the behalf of a good play! I am not
+      13286: 2019/09/10:     furnish'd like a beggar; therefore to beg will not become me. My
+      13287: 2019/09/10:     way is to conjure you; and I'll begin with the women. I charge
+      13288: 2019/09/10:     you, O women, for the love you bear to men, to like as much of
+      13289: 2019/09/10:     this play as please you; and I charge you, O men, for the love
+      13290: 2019/09/10:     you bear to women- as I perceive by your simp'ring none of you
+      13291: 2019/09/10:     hates them- that between you and the women the play may please.
+      13292: 2019/09/10:     If I were a woman, I would kiss as many of you as had beards that
+      13293: 2019/09/10:     pleas'd me, complexions that lik'd me, and breaths that I defied
+      13294: 2019/09/10:     not; and, I am sure, as many as have good beards, or good faces,
+      13295: 2019/09/10:     or sweet breaths, will, for my kind offer, when I make curtsy,
+      13296: 2019/09/10:     bid me farewell.
+      13297: 2019/09/10: 
+      13298: 2019/09/10: THE END
+      13299: 2019/09/10: 

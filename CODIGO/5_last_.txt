@@ -1,0 +1,2 @@
+date; zip -T datagrams.zip; date
+date; unzip datagrams.zip; date
