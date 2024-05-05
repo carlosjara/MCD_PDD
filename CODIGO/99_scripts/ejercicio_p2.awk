@@ -12,9 +12,18 @@ function revisar_fecha(fecha)
         }
     }
 	if (dateArr[8]=="PM") {
-		fecha_ajustada = sprintf("%s-%s-%s %s:%s:%s", "20" dateArr[3], month, dateArr[1], dateArr[4]+12, dateArr[5], dateArr[6])
-	}else{
-		fecha_ajustada = sprintf("%s-%s-%s %s:%s:%s", "20" dateArr[3], month, dateArr[1], dateArr[4], dateArr[5], dateArr[6])
+		if (dateArr[4]=="12"){
+			fecha_ajustada = sprintf("%s-%s-%s %s:%s:%s", "20" dateArr[3], month, dateArr[1], dateArr[4], dateArr[5], dateArr[6])
+		} else {
+			fecha_ajustada = sprintf("%s-%s-%s %s:%s:%s", "20" dateArr[3], month, dateArr[1], dateArr[4]+12, dateArr[5], dateArr[6])
+		}
+	}
+	else{
+		if (dateArr[4]=="12"){
+			fecha_ajustada = sprintf("%s-%s-%s %s:%s:%s", "20" dateArr[3], month, dateArr[1], "00", dateArr[5], dateArr[6])
+		} else {
+			fecha_ajustada = sprintf("%s-%s-%s %s:%s:%s", "20" dateArr[3], month, dateArr[1], dateArr[4], dateArr[5], dateArr[6])
+		}
 	}
 	return fecha_ajustada
 }
