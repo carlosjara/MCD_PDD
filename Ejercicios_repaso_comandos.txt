@@ -1,0 +1,54 @@
+1. du -h datagrams.zip; du -h datagrams-nonstd.csv
+18G     datagrams.zip
+75G     datagrams-nonstd.csv
+
+2. How many rows does datagrams.csv have? How much time did that take?
+$ date; wc -l datagrams-nonstd.csv; date;
+Fri May  3 09:54:46 -05 2024
+814547049 datagrams-nonstd.csv
+Fri May  3 10:28:09 -05 2024
+
+TIME : 00:33:23
+
+3. Show the first and last 10 rows of datagrams.csv 
+$ head -n 10 datagrams-nonstd.csv
+0,02-MAY-19,-1,-1,34957233,-765048150,1034,2801,9995,6194752168,02-MAY-19 05.15.39.000000 AM,213
+0,02-MAY-19,514484,-1,34103867,-764789850,163,357,182,6194752169,02-MAY-19 05.15.39.000000 AM,268
+0,02-MAY-19,516192,201,33913983,-765239350,16,2212,362,6194752170,02-MAY-19 05.15.39.000000 AM,638
+0,02-MAY-19,513105,37,34695883,-764853100,764,2273,324,6194752171,02-MAY-19 05.15.39.000000 AM,1170
+0,02-MAY-19,-1,-1,34979267,-765019417,-1,-1,-1,6194752172,02-MAY-19 05.15.39.000000 AM,192
+0,02-MAY-19,518194,124,34290000,-765167867,947,2524,359,6194752173,02-MAY-19 05.15.39.000000 AM,1068
+0,02-MAY-19,511360,-1,33310150,-765327533,820,3191,335,6194752174,02-MAY-19 05.15.39.000000 AM,123
+0,02-MAY-19,514507,32,34341117,-764906183,148,385,8,6194752175,02-MAY-19 05.15.39.000000 AM,290
+0,02-MAY-19,514080,412,34547567,-764823717,836,2241,313,6194752176,02-MAY-19 05.15.39.000000 AM,794
+0,02-MAY-19,-1,-1,34434167,-764838267,364,140,9876,6194752177,02-MAY-19 05.15.39.000000 AM,219 
+0,02-MAY-19,-1,-1,34434167,-764838267,364,140,9876,6194752177,02-MAY-19 05.15.39.000000 AM,219 
+
+
+What is the date format in datagrams.csv? Which data does datagrams.csv contain in its columns?
+columnas : 12
+columna 1: numero
+columna 2: Fecha [DD-MON-YY]
+columna 3: numero [2]
+columna 4: numero [2]
+columna 5: numero [8](latitud * 10000)
+columna 6: numero [8](longitud * 10000)
+columna 7: numero [4]
+columna 8: numero [4]
+columna 9: numero [4]
+columna 10: numero [10]
+columna 11: Fecha [DD-MON-YY HH.MI.SS.MS AM/PM]
+columna 12: numero [4]
+
+
+What does this dataset say to you about the SITM-MIO business?
+
+
+
+$ date; awk -f scripts/subroutines_.awk datagrams-nonstd.csv; date;
+Fri May  3 12:31:48 -05 2024
+Ejemplo:
+0,02-MAY-19,-1,-1,34979267,-765019417,-1,-1,-1,6194752172,02-MAY-19 05.15.39.000000 AM,192
+Número de columnas en la línea 5: 12
+La cantidad total de lineas con más de 12 columnas es:  814
+Fri May  3 14:02:50 -05 2024
